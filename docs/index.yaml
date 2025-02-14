@@ -124,9 +124,9 @@ entries:
   advisory-board-frontend:
   - apiVersion: v2
     appVersion: 1.11.4
-    created: "2025-02-14T04:28:29.703164951+02:00"
+    created: "2025-02-14T04:29:24.887031361+02:00"
     description: Climate advisory frontend
-    digest: 6ccdca9351f201d0ef1157bc3189fc6a5046e722c166715f249e5dc0cdb2f675
+    digest: 14f7c7bbbe4eb28ba8c495ca00121b144d55541ea268b57b58adc67cbdba82f0
     home: https://github.com/eea/advisory-board-frontend
     icon: https://raw.githubusercontent.com/eea/helm-charts/main/sources/advisory-board-frontend/volto.png
     keywords:
@@ -10899,4 +10899,4 @@ entries:
     urls:
     - zz-testing-catalogrefresh-2.0.0.tgz
     version: 2.0.0
-generated: "2025-02-14T04:28:29.701894203+02:00"
+generated: "2025-02-14T04:29:24.886124422+02:00"
