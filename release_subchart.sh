@@ -49,7 +49,7 @@ echo " Trying to update subchart $HELM_SUBCHART version $HELM_SUBCHART_VERSION i
 export HELM_VERSION_TYPE="PATCH"
 export HELM_UPGRADE_MESSAGE="Release of dependent chart $HELM_SUBCHART:$HELM_SUBCHART_VERSION"
 
-for i in $(grep $HELM_SUBCHART sources/*/Chart.yaml | awk -F: '{print $1}' | awk -F"/" '{print $1}' | uniq ); do
+for i in $(grep $HELM_SUBCHART sources/*/Chart.yaml | awk -F: '{print $1}' | awk -F"/" '{print $2}' | uniq ); do
 
 
         old_version=$( yq ".dependencies[] | select ( .name == \"$HELM_SUBCHART\" ) | .version"  sources/$i/Chart.yaml )
