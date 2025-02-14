@@ -12,6 +12,9 @@ This chart deployes the Climate Advisory Board frontend app
 ## Releases
 
 <dl>
+  <dt>Version 1.5.0</dt>
+  <dd>Automated release of eeacms/advisory-board-frontend:1.11.4</dd>
+
   <dt>Version 1.4.0</dt>
   <dd>Automated release of eeacms/advisory-board-frontend:1.11.3</dd>
 
