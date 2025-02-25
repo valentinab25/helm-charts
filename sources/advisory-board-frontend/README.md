@@ -11,6 +11,9 @@ This chart deployes the Climate Advisory Board frontend app
 
 ## Releases
 
+### Version 1.2.1 - 25 February 2025
+- Automated release of eeacms/plone-varnish:7.6-1.0
+
 ### Version 1.2.0 - 24 February 2025
 - Automated release of eeacms/advisory-board-frontend:1.12.0
 
