@@ -80,6 +80,9 @@ rn-varnish: # Assuming you named your rn-varnish subchart "rn-varnish"
 
 ## Releases
 
+### Version 0.2.0 - 25 February 2025
+- Automated release of eeacms/reportek-varnish:7.6-1.0
+
 ### Version 0.1.10
 - Fixed nintend for backendSelectorLabels in networkpolicy template.
 
