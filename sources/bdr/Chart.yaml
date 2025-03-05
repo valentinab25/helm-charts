@@ -12,46 +12,46 @@ appVersion: "5.9.4-208"
 dependencies:
   - name: rn-zeoserver
     version: 0.1.9
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: zeoserver
   - name: rn-local-converters
     version: 0.1.6
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     condition: rn-local-converters.enabled
     alias: local-converters
   - name: rn-clamav
     version: 0.1.8
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     condition: rn-clamav.enabled
     alias: clamav
   - name: rn-bdr-ldap
     version: 0.1.2
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: ldap
   - name: rn-bdr-registry
     version: 0.1.7
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: bdr-registry
   - name: postgresql
     version: 15.2.8
     repository: https://charts.bitnami.com/bitnami
   - name: postfix
     version: 3.0.6
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     condition: postfix.enabled
   - name: rn-bdr-registry-notifications
     version: 0.1.10
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: bdr-registry-notifications
   - name: rn-bdr-registry-notifications
     version: 0.1.10
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: bdr-registry-notifications-async
   - name: rn-bdr-european-registry
     version: 0.1.7
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: european-registry
   - name: rn-apache
     version: 0.1.8
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: apache

@@ -18,10 +18,10 @@ appVersion: "plone-2.5.51"
 dependencies:
   - name: postfix
     version: 3.0.3
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
   - name: zeoserver
     version: 0.1.0
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
   - name: memcached
     version: 7.4.13
     repository: https://charts.bitnami.com/bitnami

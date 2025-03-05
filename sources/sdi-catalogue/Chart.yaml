@@ -17,5 +17,5 @@ version: 0.6.28
 dependencies:
   - name: postfix
     version: 2.0.1
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
 

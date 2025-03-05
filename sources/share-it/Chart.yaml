@@ -19,4 +19,4 @@ appVersion: "25.0.12-fpm-alpine"
 dependencies:
   - name: postfix
     version: 0.2.1
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts

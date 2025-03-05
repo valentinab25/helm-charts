@@ -20,7 +20,7 @@ appVersion: "2025-02-20T1222"
 dependencies:
   - name: postfix
     version: 3.0.2
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     condition: postfix.enabled
   - name: mariadb
     version: 19.1.0

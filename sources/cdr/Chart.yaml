@@ -12,20 +12,20 @@ appVersion: "6.7.3-204"
 dependencies:
   - name: rn-zeoserver
     version: 0.1.9
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     alias: zeoserver
   - name: rn-varnish
     version: 0.1.10
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     condition: rn-varnish.enabled
     alias: varnish
   - name: rn-local-converters
     version: 0.1.6
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     condition: rn-local-converters.enabled
     alias: local-converters
   - name: rn-clamav
     version: 0.1.8
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
     condition: rn-clamav.enabled
     alias: clamav

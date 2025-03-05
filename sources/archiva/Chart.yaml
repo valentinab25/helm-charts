@@ -21,4 +21,4 @@ appVersion: "v2.2.7"
 dependencies:
   - name: postfix
     version: 3.0.6
-    repository: https://eea.github.io/helm-charts
+    repository: https://valentinab25.github.io/helm-charts
