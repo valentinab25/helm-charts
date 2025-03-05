@@ -3,7 +3,7 @@ name: cdr
 description: A CDR Helm chart for Kubernetes
 icon: https://raw.githubusercontent.com/eea/helm-charts/main/sources/cdr/logo_eionet.png
 type: application
-version: 0.3.41
+version: 0.3.42
 appVersion: "6.7.3-204"
 dependencies:
   - name: rn-zeoserver
@@ -11,7 +11,7 @@ dependencies:
     repository: https://valentinab25.github.io/helm-charts
     alias: zeoserver
   - name: rn-varnish
-    version: 0.2.0
+    version: 0.7.0
     repository: https://valentinab25.github.io/helm-charts
     condition: rn-varnish.enabled
     alias: varnish
