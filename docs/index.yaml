@@ -9839,6 +9839,17 @@ entries:
     version: 0.1.0
   rn-varnish:
   - apiVersion: v2
+    appVersion: 9.0-1.2
+    created: "2025-03-05T15:32:24.092489801Z"
+    description: A Reportnet2 varnish Helm chart for Kubernetes
+    digest: 2ee555811b7ca0468af19e8a4153691001e8f270fef14da5d6d6964d56c7581b
+    icon: https://raw.githubusercontent.com/eea/helm-charts/main/sources/rn-varnish/varnish_logo.png
+    name: rn-varnish
+    type: application
+    urls:
+    - rn-varnish-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
     appVersion: 9.0-1.1
     created: "2025-03-05T15:30:30.474614027Z"
     description: A Reportnet2 varnish Helm chart for Kubernetes
@@ -11751,4 +11762,4 @@ entries:
     urls:
     - zz-testing-catalogrefresh-2.0.0.tgz
     version: 2.0.0
-generated: "2025-03-05T15:30:30.472305952Z"
+generated: "2025-03-05T15:32:24.089315455Z"
