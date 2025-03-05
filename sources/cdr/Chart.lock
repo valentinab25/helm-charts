@@ -1,15 +1,15 @@
 dependencies:
 - name: rn-zeoserver
-  repository: https://eea.github.io/helm-charts
+  repository: https://valentinab25.github.io/helm-charts
   version: 0.1.9
 - name: rn-varnish
-  repository: https://eea.github.io/helm-charts
-  version: 0.1.10
+  repository: https://valentinab25.github.io/helm-charts
+  version: 0.2.0
 - name: rn-local-converters
-  repository: https://eea.github.io/helm-charts
+  repository: https://valentinab25.github.io/helm-charts
   version: 0.1.6
 - name: rn-clamav
-  repository: https://eea.github.io/helm-charts
+  repository: https://valentinab25.github.io/helm-charts
   version: 0.1.8
-digest: sha256:12bf4e141c3dcbe866010fb6b1c09745a94ae17cd9b4e2d475b3095ea9401c34
-generated: "2025-01-29T14:13:00.628231+02:00"
+digest: sha256:7e1932f4319838eeff1e9444a179fa3ba01a3476f434263966dba8d389bd2fd8
+generated: "2025-03-05T15:14:06.290042896Z"

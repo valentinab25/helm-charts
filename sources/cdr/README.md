@@ -65,6 +65,9 @@ To customize the network policies, you should modify the `instance.networkPolicy
 
 ## Releases
 
+### Version 0.3.41 - 05 March 2025
+- Release of dependent chart rn-varnish:0.2.0
+
 ### Version 0.3.40
 - Improved network policy configuration by allowing per-CIDR port specifications in ipBlockRules
 
