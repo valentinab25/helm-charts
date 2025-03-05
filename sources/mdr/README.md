@@ -65,6 +65,9 @@ To customize the network policies, you should modify the `instance.networkPolicy
 
 ## Releases
 
+### Version 0.3.23 - 05 March 2025
+- Release of dependent chart rn-varnish:0.7.0
+
 ### Version 0.3.22 - 05 March 2025
 - Release of dependent chart rn-varnish:0.2.0
 
