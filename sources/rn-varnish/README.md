@@ -80,6 +80,9 @@ rn-varnish: # Assuming you named your rn-varnish subchart "rn-varnish"
 
 ## Releases
 
+### Version 0.4.0 - 05 March 2025
+- Automated release of eeacms/reportek-varnish:8.0-1.0
+
 ### Version 0.3.0 - 05 March 2025
 - Automated release of eeacms/reportek-varnish:7.7-1.0
 
