@@ -65,6 +65,9 @@ To customize the network policies, you should modify the `instance.networkPolicy
 
 ## Releases
 
+### Version 0.3.43 - 13 March 2025
+- Release of dependent chart rn-varnish:0.10.0 [root - [`5fcfe77`](https://github.com/valentinab25/helm-charts/commit/5fcfe77f51f19d00ff8ecf8915be044f72900061)]
+
 ### Version 0.3.42 - 05 March 2025
 - Release of dependent chart rn-varnish:0.7.0
 
