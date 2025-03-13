@@ -80,6 +80,9 @@ rn-varnish: # Assuming you named your rn-varnish subchart "rn-varnish"
 
 ## Releases
 
+### Version 0.9.0 - 13 March 2025
+- Automated release of eeacms/reportek-varnish:10.0-1.1 [root - [`4c693bd`](https://github.com/valentinab25/helm-charts/commit/4c693bd7186baca0314ce0c9ae0a47d9e8d89c56)]
+
 ### Version 0.8.0 - 13 March 2025
 - Automated release of eeacms/reportek-varnish:10.0-1.0
 
