@@ -4,9 +4,9 @@ dependencies:
   version: 0.1.9
 - name: rn-varnish
   repository: https://valentinab25.github.io/helm-charts
-  version: 0.10.0
+  version: 0.11.0
 - name: rn-local-converters
   repository: https://valentinab25.github.io/helm-charts
   version: 0.1.6
-digest: sha256:723d03ca4fb00f2e7f2e00da44a011dc8faf5e57a8b8153f565c2f685507e606
-generated: "2025-03-13T13:29:53.350216784Z"
+digest: sha256:142562e88c4724bef0a2848f152368346bdafeffb841e1c1c254af4309f97be7
+generated: "2025-03-13T13:59:39.895902233Z"
